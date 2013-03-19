@@ -1,0 +1,12 @@
+[user]
+	name = Donna Wu
+	email = donna.wu@intel.com
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
+[color]
+	branch = auto
+	diff = auto
+	status = auto
