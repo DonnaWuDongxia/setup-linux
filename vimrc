@@ -13,6 +13,8 @@ set softtabstop=4
 set cindent shiftwidth=4
 set smartindent shiftwidth=4
 set nu
+filetype on
+set cursorline
 
 set ruler
 set showcmd
